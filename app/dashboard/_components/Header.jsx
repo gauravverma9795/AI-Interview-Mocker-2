@@ -80,6 +80,7 @@ export default function Header() {
             w-16 h-8 p-1 overflow-hidden rounded-full
             bg-gray-200 dark:bg-gray-800
             transition-colors duration-300 focus:outline-none
+            cursor-pointer
           "
         >
           <SunIcon
